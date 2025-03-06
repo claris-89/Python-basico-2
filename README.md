@@ -37,5 +37,5 @@ Eliminación de duplicados y manejo de datos faltantes.
 Prueba de Hipótesis: Uso de estadísticas descriptivas e inferenciales para validar o rechazar la hipótesis.
 
 
-Conclusiones
+### Conclusiones
 A partir de los datos expuestos anteriormente, podemos concluir que la actividad de los usuarios y usuarias si tiene algunas variaciones en algunos días de la semana, no obstante no se muestran diferencias significativas. La ciudad de Springfield muestra más actividad, a excepción del día miércoles que disminuye. Por otro lado la ciudad de Shelbyville tiene menos actividad y muestra ligeras diferencias. se puede decir que es cierta en este caso limitado de datos porque si hay diferencias entre las ciudades como decir que en Shellbyville los días miércoles se escuchan más canciones que en los otros dos días mientras que en Springfield es el viernes, si tuvieramos más datos acerca de las poblaciones de ambas ciudades tendriamos oportunidad de llegar a conclusiones más certeras.
